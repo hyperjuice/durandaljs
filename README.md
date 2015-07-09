@@ -1,4 +1,4 @@
-![Durandal](http://durandaljs.com/media/DURANDAL-FINAL-HI-RES-LOGO-HOR-WEB.png)
+![Darrell learns Durandal](http://www.darrellcohn.com/images/dbc-home.png)
 
 Durandal is a cross-device, cross-platform client framework written in JavaScript and designed to make Single Page Applications (SPAs) easy to create and maintain. We've used it to build apps for PC, Mac, Linux, iOS and Android...and now it's your turn...
 
