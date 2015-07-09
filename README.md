@@ -1,14 +1,14 @@
 ![Darrell learns Durandal](http://www.darrellcohn.com/images/dbc-home.png)
 
-Durandal is a cross-device, cross-platform client framework written in JavaScript and designed to make Single Page Applications (SPAs) easy to create and maintain. We've used it to build apps for PC, Mac, Linux, iOS and Android...and now it's your turn...
-
-[![Build Status](https://travis-ci.org/BlueSpire/Durandal.png?branch=master)](https://travis-ci.org/BlueSpire/Durandal)
-
 ## Darrell Details
 
 * Product guy turned full stack developer. Visit [my website](http://www.darrellcohn.com/).
 
 ## Durandal Documentation
+
+Durandal is a cross-device, cross-platform client framework written in JavaScript and designed to make Single Page Applications (SPAs) easy to create and maintain. We've used it to build apps for PC, Mac, Linux, iOS and Android...and now it's your turn...
+
+[![Build Status](https://travis-ci.org/BlueSpire/Durandal.png?branch=master)](https://travis-ci.org/BlueSpire/Durandal)
 
 All the documentation is located on [the official site](http://durandaljs.com/), so have a look there for help on how to [get started](http://durandaljs.com/get-started.html), [read tutorials](http://durandaljs.com/docs.html), [view sample descriptions](http://durandaljs.com/documentation/Understanding-the-Samples.html) and peruse the module reference docs.
 
