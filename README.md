@@ -4,20 +4,9 @@ Durandal is a cross-device, cross-platform client framework written in JavaScrip
 
 [![Build Status](https://travis-ci.org/BlueSpire/Durandal.png?branch=master)](https://travis-ci.org/BlueSpire/Durandal)
 
-## Features
+## Details
 
-* Clean MV* Architecture
-* JS & HTML Modularity
-* Simple App Lifecycle
-* Eventing, Modals, Message Boxes, etc.
-* Navigation & Screen State Management
-* Consistent Async Programming w/ Promises
-* App Bundling and Optimization
-* Use any Backend Technology
-* Built on top of [jQuery](http://jquery.com/), [Knockout](http://knockoutjs.com/) & [RequireJS](http://requirejs.org/).
-* Integrates with popular CSS libraries such as [Bootstrap](http://twitter.github.com/bootstrap/) and [Foundation](http://foundation.zurb.com/).
-* Make your own templatable and data-bindable widgets.
-* Fully Testable
+* Product guy turned full stack developer
 
 ## Documentation
 
