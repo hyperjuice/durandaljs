@@ -6,7 +6,7 @@ Durandal is a cross-device, cross-platform client framework written in JavaScrip
 
 ## Darrell Details
 
-* Product guy turned full stack developer. [My website:](http://www.darrellcohn.com/)
+* Product guy turned full stack developer. Visit [my website](http://www.darrellcohn.com/).
 
 ## Durandal Documentation
 
