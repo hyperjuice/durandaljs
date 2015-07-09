@@ -4,7 +4,7 @@ Durandal is a cross-device, cross-platform client framework written in JavaScrip
 
 [![Build Status](https://travis-ci.org/BlueSpire/Durandal.png?branch=master)](https://travis-ci.org/BlueSpire/Durandal)
 
-## Details
+## Darrell Details
 
 * Product guy turned full stack developer
 
